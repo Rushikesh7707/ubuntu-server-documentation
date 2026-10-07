@@ -244,3 +244,6 @@ If you would now like to also serve the Network Time Protocol via `chrony`, this
 - {manpage}`chronyd(8)` manual page
 
 - {manpage}`chrony.conf(5)` manual page
+## Additional Information
+
+Chrony is used to synchronize the system clock with a network time server.
